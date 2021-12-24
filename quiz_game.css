@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+.login_div1,.login_div2{
+    background-color: blueviolet;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
